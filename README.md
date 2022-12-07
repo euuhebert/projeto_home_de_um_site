@@ -1,2 +1,4 @@
-# projeto_home_de_um_site
- home de um site feito par um proejto da faculdade
+# projeto home de um site
+ home de um site feito para um projeto da faculdade utlizando HTML e CSS.
+ A proposta  é criação de um site que abordasse o assunto da sustentabilidade. Esse projeto tem outros colaboradores, porém postei a parte do trablaho que foi executada por mim.
+ 
